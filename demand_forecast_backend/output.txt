@@ -1,0 +1,26 @@
+  Determining projects to restore...
+C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv
+C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Microsoft.Identity.Client' 4.56.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1901: Package 'Microsoft.Identity.Client' 4.56.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-x674-v45j-fwxw
+  All projects are up-to-date for restore.
+C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv
+C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Microsoft.Identity.Client' 4.56.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1901: Package 'Microsoft.Identity.Client' 4.56.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-x674-v45j-fwxw
+  DemandForecastBackend -> C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\bin\Debug\net10.0\DemandForecastBackend.dll
+
+Build succeeded.
+
+C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv
+C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Microsoft.Identity.Client' 4.56.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1901: Package 'Microsoft.Identity.Client' 4.56.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-x674-v45j-fwxw
+C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv
+C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Microsoft.Identity.Client' 4.56.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1901: Package 'Microsoft.Identity.Client' 4.56.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-x674-v45j-fwxw
+    8 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.02

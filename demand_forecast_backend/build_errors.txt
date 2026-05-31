@@ -1,0 +1,8 @@
+C:\Program Files\dotnet\sdk\10.0.103\Microsoft.Common.CurrentVersion.targets(5381,5): error MSB3027: Could not copy "C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\obj\Debug\net10.0\apphost.exe" to "bin\Debug\net10.0\DemandForecastBackend.exe". Exceeded retry count of 10. Failed. The file is locked by: "DemandForecastBackend (15156)" [C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj]
+C:\Program Files\dotnet\sdk\10.0.103\Microsoft.Common.CurrentVersion.targets(5381,5): error MSB3021: Unable to copy file "C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\obj\Debug\net10.0\apphost.exe" to "bin\Debug\net10.0\DemandForecastBackend.exe". The process cannot access the file 'C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\bin\Debug\net10.0\DemandForecastBackend.exe' because it is being used by another process. [C:\Users\SSN\Desktop\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj]
+
+Build FAILED.
+    18 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:12.87

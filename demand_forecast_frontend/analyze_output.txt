@@ -1,0 +1,37 @@
+Resolving dependencies...
+Downloading packages...
+  characters 1.4.0 (1.4.1 available)
+  matcher 0.12.17 (0.12.19 available)
+  material_color_utilities 0.11.1 (0.13.0 available)
+  meta 1.17.0 (1.18.1 available)
+  test_api 0.7.7 (0.7.10 available)
+Got dependencies!
+5 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Analyzing demand_forecast_frontend...                           
+
+warning - Unused import: '../forecasting/forecasting_page.dart' - lib\screens\dashboard\dashboard_page.dart:3:8 - unused_import
+warning - The declaration '_buildMain' isn't referenced - lib\screens\dashboard\dashboard_page.dart:82:10 - unused_element
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\dashboard\dashboard_page.dart:184:41 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\screens\dashboard\dashboard_page.dart:269:29 - unnecessary_underscores
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\dashboard\dashboard_page.dart:352:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\dashboard\dashboard_page.dart:359:54 - deprecated_member_use
+warning - The value of the local variable 'count' isn't used - lib\screens\forecasting\forecasting_page.dart:153:15 - unused_local_variable
+  error - The method '_buildTopBar' isn't defined for the type '_ForecastingPageState' - lib\screens\forecasting\forecasting_page.dart:304:15 - undefined_method
+  error - The method '_buildSidebar' isn't defined for the type '_ForecastingPageState' - lib\screens\forecasting\forecasting_page.dart:308:21 - undefined_method
+  error - The method '_buildMainContent' isn't defined for the type '_ForecastingPageState' - lib\screens\forecasting\forecasting_page.dart:309:37 - undefined_method
+  error - Undefined name '_isLoading' - lib\screens\forecasting\forecasting_page.dart:316:15 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\forecasting\forecasting_page.dart:318:35 - deprecated_member_use
+warning - The declaration '_buildHeader' isn't referenced - lib\screens\forecasting\forecasting_page.dart:327:10 - unused_element
+warning - The declaration '_buildFilterBar' isn't referenced - lib\screens\forecasting\forecasting_page.dart:338:10 - unused_element
+warning - The declaration '_buildBody' isn't referenced - lib\screens\forecasting\forecasting_page.dart:389:10 - unused_element
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\forecasting\forecasting_page.dart:606:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\forecasting\forecasting_page.dart:641:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\settings\database_config_page.dart:303:51 - deprecated_member_use
+warning - The value of the local variable 'anchor' isn't used - lib\services\api_service.dart:151:15 - unused_local_variable
+   info - Don't invoke 'print' in production code - lib\services\api_service.dart:169:7 - avoid_print
+warning - Unused import: '../screens/dashboard/dashboard_page.dart' - lib\widgets\sidebar_menu.dart:2:8 - unused_import
+warning - Unused import: '../screens/settings/database_config_page.dart' - lib\widgets\sidebar_menu.dart:3:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\sidebar_menu.dart:115:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\sidebar_menu.dart:118:59 - deprecated_member_use
+

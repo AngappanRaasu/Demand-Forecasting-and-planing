@@ -1,0 +1,29 @@
+  Determining projects to restore...
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Microsoft.Identity.Client' 4.56.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1901: Package 'Microsoft.Identity.Client' 4.56.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-x674-v45j-fwxw
+  All projects are up-to-date for restore.
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Microsoft.Identity.Client' 4.56.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1901: Package 'Microsoft.Identity.Client' 4.56.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-x674-v45j-fwxw
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\Services\ExcelExportService.cs(47,35): warning CS8600: Converting null literal or possible null value to non-nullable type. [D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj]
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\Services\ForecastService.cs(381,21): error CS0117: 'ForecastResultDto' does not contain a definition for 'Lookback' [D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj]
+
+Build FAILED.
+
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Microsoft.Identity.Client' 4.56.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1901: Package 'Microsoft.Identity.Client' 4.56.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-x674-v45j-fwxw
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1902: Package 'Microsoft.Identity.Client' 4.56.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj : warning NU1901: Package 'Microsoft.Identity.Client' 4.56.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-x674-v45j-fwxw
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\Services\ExcelExportService.cs(47,35): warning CS8600: Converting null literal or possible null value to non-nullable type. [D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj]
+D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\Services\ForecastService.cs(381,21): error CS0117: 'ForecastResultDto' does not contain a definition for 'Lookback' [D:\DEMAND_FORCAST_PROJECT\demand_forecast_backend\DemandForecastBackend.csproj]
+    9 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.73
