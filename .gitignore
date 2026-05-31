@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+bin/
+obj/
+__pycache__/
+*.pyc
+*.pkl
+hs_err_pid*.log
